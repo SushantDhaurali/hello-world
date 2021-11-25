@@ -1,1 +1,2 @@
 # hello-world
+I am new to the developing environment, I am not really the best at expressing myself through words so I am currently using coding as means to express myself. My short term goal is to learn how to code basics languages, understand how to develop a basic front and back end to a website and designing it. My long term goals are to understand multitude of languages, land a job earning $180,000+ income per year along with multiple passive incomes and ultimately my goal is to learn and create something new and original.
